@@ -1,2 +1,4 @@
-# Retrieval-based-chatbot
-Retrieval based chatbot in Python using AI and NLP techniques  
+# Simple-Python-Chatbot
+
+Creating a simple Python chatbot using natural language processing and deep learning.
+
